@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="350" align='right'>
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)
 
