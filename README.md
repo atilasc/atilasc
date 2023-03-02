@@ -49,7 +49,7 @@
  </div>
 
 
-<div style="display: flex;flex-wrap: wrap;justify-content: center;align-items: flex-end;"> >
+<div style="display: flex;flex-wrap: wrap;justify-content: center;align-items: flex-end;"> 
   <br/><br/>
 
   [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
