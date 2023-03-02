@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | SQL  
+- 💻 &nbsp; Python | PHP | Laravel | SQL  
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
