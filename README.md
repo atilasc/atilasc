@@ -52,15 +52,15 @@
 <div>
   <br/><br/>
 
-  [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
+  ![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
 
   <br/>
 
   <br/>
-
-  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" align='right'>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" align='right'>
+
 
   <br><br>
 
