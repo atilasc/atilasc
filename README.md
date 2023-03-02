@@ -45,24 +45,19 @@
 
   - 🔧 &nbsp; AWS | Oracle Cloud | Firebase | flask
 
-  <hr>
+  
  </div>
 
 
 <div>
-<br/>
-
-<br/>
   ![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)(https://github.com/atilasc)
-<br/>
 
-<br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)<br>
   
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" align='right'>
 </div>
 
-<hr>
+
 
 <div>
   <h3> 🤝🏻 Connect with Me </h3>
