@@ -52,7 +52,7 @@
 <div>
   <br/><br/>
 
-  ![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
+  [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
 
   <br/>
 
