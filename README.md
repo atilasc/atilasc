@@ -1,4 +1,4 @@
-### Hi there 👋 <h2> I'm Átila the Hun 😂 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"></h2>
+### Hi there 👋 <h2> I'm Átila the Hun 😂 </h2>
 
   <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="250">
 
