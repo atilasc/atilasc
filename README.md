@@ -72,22 +72,10 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
 <a href="https://www.linkedin.com/in/atilasoares/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%C3%81tila%20Soares%20Cunha-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:atilasoarescunha@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atilasoarescunha@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
 
 <hr>
