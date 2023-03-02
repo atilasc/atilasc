@@ -43,11 +43,11 @@
   <hr>
 
 
-  <br/><br/>
+  <br/>
 
   [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)
 
-  <br><br>
+  <br>
 
 
 
