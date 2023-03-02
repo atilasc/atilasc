@@ -1,10 +1,5 @@
-### Hi there 👋
+### Hi there 👋 <h2> I'm Átila the Hun 😂</h2>
 
-<div> 
-  <h2> I'm Átila the Hun 😂</h2>
-</div>
-
-<div>
   <img align='right' src="https://media.proprofs.com/images/QM/user_images/2356735/1574269738.gif" width="350">
 
   <h3> 👨🏻•💻 About Me </h3>
@@ -46,10 +41,8 @@
   - 🔧 &nbsp; AWS | Oracle Cloud | Firebase | flask
 
   <hr>
- </div>
 
 
-<div style="display: flex;flex-wrap: wrap;justify-content: center;align-items: flex-end;"> 
   <br/><br/>
 
   [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
@@ -67,9 +60,7 @@
 
 
   <hr>
-</div>
 
-<div>
   <h3> 🤝🏻 Connect with Me </h3>
 
   <br>
@@ -85,4 +76,3 @@
   </p>
 
   <hr>
- </div>
