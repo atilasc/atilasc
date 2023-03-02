@@ -20,7 +20,7 @@
 
   - 💻 &nbsp; Python | PHP | Laravel | SQL  
 
-  - <img alt="HTML" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/raw/main/images/HTML.png?raw=true"> &nbsp; <img alt="CSS" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/raw/main/images/css.png?raw=true"> &nbsp; <img alt="JavaScript" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/raw/main/images/javascript.png?raw=true"> &nbsp; <img alt="Bootstrap" width="32px" src="https://github.com/PrinceCorwin/Useful-tech-icons/raw/main/images/bootstrap-logo.png?raw=true">
+  - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
   <!--
 
