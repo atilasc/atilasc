@@ -50,24 +50,14 @@
 
 
 <div>
-  <br/><br/>
-
   [![Átila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilasc&show_icons=true)](https://github.com/atilasc)
 
-  <br/>
-
-  <br/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)]
+  
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" align='right'>
-
-
-  <br><br>
-
-
-
-  <hr>
 </div>
+
+<hr>
 
 <div>
   <h3> 🤝🏻 Connect with Me </h3>
