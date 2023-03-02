@@ -14,7 +14,7 @@
 
   - 🗣️ &nbsp; I speak Portuguese natively and I can read in English.
 
-  <h3>🛠 Tech Stack</h3>
+  <h3>✔️ Tech Stack</h3>
 
 
 
