@@ -8,7 +8,7 @@
 
   - 🤔 &nbsp; Study Python and develop software solutions and quick hacks.
 
-  - 🎓 &nbsp; Studying Information Systems at UNIFACS.
+  - 🎓 &nbsp; Studying Information Systems at UNIFACS in Bahia - Brazil.
 
   - 🌱 &nbsp; Learning about Python, data science, LGPD, GDPR and IT management.
 
