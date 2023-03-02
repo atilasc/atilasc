@@ -2,7 +2,7 @@
 
   <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="250">
 
-  <h3> 👨🏻•💻 About Me </h3>
+  <h3> 👨🏻💻 About Me </h3>
 
 
 
