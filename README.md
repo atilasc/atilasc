@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Átila the Hun 😂</h2>
 
-<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="350">
+<img align='right' src="https://media.proprofs.com/images/QM/user_images/2356735/1574269738.gif" width="350">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-<img src="https://media.tenor.com/A2zW2f2hPb0AAAAd/working-hard-multitasking.gif" width="350" align='right'>
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilasc&show_icons=true)
 
