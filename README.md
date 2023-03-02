@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Átila the Hun 😂</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="200">
 
 <h3> 👨🏻•💻 About Me </h3>
 
